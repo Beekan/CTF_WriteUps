@@ -6,13 +6,13 @@ The password for the next level is stored in a file called spaces in this filena
 ```Bash
 cat spaces\ in\ this\ filename
 ```
-
-2. Exit from bandit2 shell
+You should now be able to view the password.
+2. Exit bandit2 shell.
 ```Bash
 exit
 ```
 
-3. ssh to bandit3 shell
+3. ssh into bandit3.
 ```Bash
 ssh bandit3@bandit.labs.overthewire.org -p 2220
 ```
