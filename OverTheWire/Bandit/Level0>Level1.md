@@ -3,17 +3,18 @@ The password for the next level is stored in a file called readme located in the
 
 # Solution
 
-1.Read The contents of the file using cat command
+1.Read The contents of the file using cat command which contains the password.
 ```Bash
 cat readme
 ```
+You should be able to see the password now from the output of the command.
 
-2.Exit from the bandit0 shell
+2.Exit bandit0 shell.
 ```Bash
 exit
 ```
 
-3.Connect to Bandit1
+3.ssh into Bandit1.
 ```Bash
 ssh bandit1@bandit.labs.overthewire.org -p 2220
 ```
