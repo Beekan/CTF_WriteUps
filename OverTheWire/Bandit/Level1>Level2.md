@@ -4,13 +4,14 @@ The password for the next level is stored in a file called - located in the home
 
 # Solution
 
-1. View the name of the file needed to be read using 'ls' command
-2. View the contents of the file using cat
+1. View the name of the file needed to be read using 'ls' command.
+2. View the contents of the file using cat which contains the password.
 ```Bash
 cat < -
 ```
+You should be able to see the password now from the output of the command
 
-3. Exit from bandit1 shell
+3. Exit bandit1 shell
 ```Bash
 exit
 ```
