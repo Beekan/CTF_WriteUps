@@ -7,6 +7,7 @@ The password for the next level is stored in a file called spaces in this filena
 cat spaces\ in\ this\ filename
 ```
 You should now be able to view the password.
+
 2. Exit bandit2 shell.
 ```Bash
 exit
