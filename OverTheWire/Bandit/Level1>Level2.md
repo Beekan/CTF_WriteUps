@@ -24,4 +24,4 @@ Password:CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 
 # Explanation
 
-The only difference between this level and the one before is the file name is a special character. To counter this the '<' option is used which specifies that whatever comes next is a file name.
+The only difference between this level and the one before is that the filename is a special character. To counter this the '<' option is used which specifies that whatever comes next is a filename.
