@@ -22,5 +22,6 @@ Password:UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 # Explanation
 
 Since spaces between words in a bash command translate to signal different options each word in the filename would be viewed as a independent parameter except the woord spaces. To counter this and to signal to bash that this is just a space between the same entity the backslash character is used to signify this. 
+
 (A general tip: you can use word completion within the command line using 'tab' and the whole filename would be properly written.)
 
