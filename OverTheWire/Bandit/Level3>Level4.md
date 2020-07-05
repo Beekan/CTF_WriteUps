@@ -13,7 +13,7 @@ cd inhere/
 ```Bash
 ls .*
 ```
-Output: You should now see a file name called .hidden.
+You should now see a file name called .hidden.
 
 3. View the contents of .hidden.
 ```Bash
