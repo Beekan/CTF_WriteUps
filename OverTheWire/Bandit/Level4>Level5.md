@@ -30,6 +30,8 @@ or
 ```Bash
 cat -- -file07
 ```
+You should now be able to view the password.
+
 5. exit bandit4 shell
 ```Bash
 exit
