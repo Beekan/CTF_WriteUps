@@ -18,7 +18,7 @@ exit
 
 3. ssh into bandit10
 ```Bash
-ssh bandit9@bandit.labs.overthewire.org -p 2220
+ssh bandit10@bandit.labs.overthewire.org -p 2220
 ```
 Password: truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
 
