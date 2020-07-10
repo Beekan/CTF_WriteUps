@@ -18,7 +18,7 @@ exit
 ```Bash
 ssh bandit1@bandit.labs.overthewire.org -p 2220
 ```
-Password:boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+Password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 # Explaination
  
