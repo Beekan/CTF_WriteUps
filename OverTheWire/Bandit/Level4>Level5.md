@@ -41,7 +41,7 @@ exit
 ```Bash
 ssh bandit3@bandit.labs.overthewire.org -p 2220
 ```
-Password:koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+Password: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 # Explanation
 The filenames start with a dash which would make the dash itself and the first letter to be interpreted as an option for the command. 
