@@ -39,7 +39,7 @@ exit
 
 6. ssh into bandit5
 ```Bash
-ssh bandit3@bandit.labs.overthewire.org -p 2220
+ssh bandit5@bandit.labs.overthewire.org -p 2220
 ```
 Password: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
