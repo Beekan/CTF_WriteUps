@@ -9,7 +9,7 @@ echo BfMYroe26WYalil77FoDi9qh59eK5xNr | openssl s_client -connect localhost:3000
 ```
 The password should be visible now.
 
-2.Exit bandit15 shell.
+2. Exit bandit15 shell.
 ```Bash
 exit
 ```
