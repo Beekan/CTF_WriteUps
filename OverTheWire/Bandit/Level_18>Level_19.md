@@ -28,7 +28,7 @@ exit
 ```Bash
 ssh bandit19@bandit.labs.overthewire.org -p 2220
 ```
-
+Password: IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
 ## Alternative solution
 
 To get the password the cat command could be executed from the ssh directly.
