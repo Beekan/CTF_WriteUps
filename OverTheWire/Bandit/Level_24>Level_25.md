@@ -18,7 +18,7 @@ do
   echo UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ $i
 done | nc localhost 30002
 ```
-Notice that the piping to the port is done only after all the combinations had finished computing. The basic reason for this is that if netcat is called everytime, this would create multiple procesess that wont shutdown as we dont know the PID of each command. These processes needs resources to stay alive after they have done their purpose, so after a while there are no longer resources to allocate for new commands and forking fails. So in short, it is more efficient to send all the data all at once instead of sending through the script.
+Notice that the piping to the port is done only after all the combinations had finished computing. The basic reason for this is that if netcat is called everytime, this would create multiple procesess that wont shutdown as we dont know the PID of each command. These processes needs resources to stay alive after they have done their purpose, so after a while there are no longer resources to allocate for new commands. So in short, it is more efficient to send all the data all at once instead of sending through the script.
 
 3. Run the script until the password appears.
 ```Bash
