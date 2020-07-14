@@ -3,7 +3,7 @@ A daemon is listening on port 30002 and will give you the password for bandit25 
 
 # Solution
 
-It is apparent that we need to create a script and for training purposes it is going to be a bash script. The script Runs over all the possible 4 digit combinations and then returns the correct value when founded.
+It is apparent that we need to create a script and for training purposes it is going to be a bash script. The script Runs over all the possible 4 digit combinations and then returns the correct value when found.
 1. Create a bash script file.
 ```Bash
 touch bruteforce.sh
